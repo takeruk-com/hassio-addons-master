@@ -54,7 +54,7 @@
         "crt": "str?",
         "key": "str?",
         "client_cas": "str?",
-        "remote_addr": "",
+        "remote_addr": "str?",
         "metadata": "str?"
       }
     ]
